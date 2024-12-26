@@ -20,10 +20,6 @@ llm-research/
 ### Prerequisites
 - Python 3.8+
 - Jupyter Notebook/Lab
-- Required packages (install via pip):
-  ```bash
-  pip install -r requirements.txt
-  ```
 
 ### Installation
 1. Clone the repository:
